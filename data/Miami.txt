@@ -1,0 +1,17 @@
+ Volume in drive J is OS
+ Volume Serial Number is 6671-F341
+
+ Directory of J:\Miami
+
+07/19/2021  04:56 PM    <DIR>          .
+05/26/2021  09:59 AM    <DIR>          ..
+06/03/2019  11:59 AM    <DIR>          1460-06_(10340)
+06/11/2021  02:31 PM    <DIR>          1636-06
+06/03/2019  11:59 AM    <DIR>          1636-06B.10361
+02/19/2019  01:18 PM    <DIR>          1636-07
+11/19/2019  12:43 PM    <DIR>          971-20
+01/19/2021  03:03 PM    <DIR>          DO NOT DELETE
+07/19/2021  04:56 PM                90 Miami.txt
+07/07/2021  06:15 PM    <DIR>          _Archives
+               1 File(s)             90 bytes
+               9 Dir(s)  3,869,304,188,928 bytes free

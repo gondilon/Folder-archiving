@@ -1,0 +1,123 @@
+ Volume in drive J is OS
+ Volume Serial Number is 6671-F341
+
+ Directory of J:\Philadelphia
+
+07/19/2021  04:57 PM    <DIR>          .
+05/26/2021  09:59 AM    <DIR>          ..
+04/02/2021  12:27 PM    <DIR>          0010017.000 Sound Transit
+12/04/2017  12:15 PM    <DIR>          0010064.000
+12/04/2017  12:15 PM    <DIR>          0010127
+12/04/2017  12:15 PM    <DIR>          0010154.000
+12/04/2017  12:15 PM    <DIR>          0010190.000
+07/29/2020  10:34 AM    <DIR>          0010190.000 - Caltrain ET Operations
+12/04/2017  12:15 PM    <DIR>          0010221
+05/01/2021  09:41 AM    <DIR>          0010582.000 DXB T1 and T3 ITS
+03/14/2021  09:31 PM    <DIR>          0010596.000 New Makkah Smart City - Stage 1
+07/08/2021  11:14 AM    <DIR>          0010633.000-SEPTA_Comm_Maint_Standards
+06/21/2021  07:36 AM    <DIR>          0010637.000-SEPTA_Traction_Power_Study
+03/09/2021  04:44 PM    <DIR>          01-01
+12/04/2017  12:15 PM    <DIR>          1269-12 (10447)
+10/05/2017  02:00 PM    <DIR>          1534-07
+07/07/2021  01:47 PM    <DIR>          1534-10
+06/08/2021  01:36 PM               857 1534-10 - Shortcut.lnk
+01/14/2020  12:59 PM    <DIR>          1565-82 Al Wukair
+07/23/2019  03:10 PM    <DIR>          1565-87 Al-Khafji Landport ITS
+10/16/2019  04:05 PM    <DIR>          1592-04 HDR LA ESOC
+01/20/2021  03:30 PM    <DIR>          1645-02
+04/19/2021  07:21 AM    <DIR>          16B-13 SEPTA Video Refresh
+12/14/2018  01:29 PM    <DIR>          1728-06
+11/18/2014  09:31 AM    <DIR>          1728-07_PANYNJ_P25_Upgrade
+08/15/2016  04:32 PM    <DIR>          1728-08
+01/07/2019  04:03 AM    <DIR>          1728-09
+12/04/2017  12:15 PM    <DIR>          1728-09-02 -PANYNJ -
+12/04/2017  12:15 PM    <DIR>          1728-11-01
+07/24/2020  02:18 PM    <DIR>          1735-03
+12/04/2017  12:15 PM    <DIR>          1969-03
+06/02/2014  08:09 AM    <DIR>          1974-05
+04/29/2015  09:41 AM    <DIR>          1974-06
+06/08/2021  01:07 PM    <DIR>          1974-08 AMTRAK RADIO REPEATER
+04/22/2020  11:05 AM    <DIR>          1977-02-SFMTA
+11/08/2017  02:47 PM    <DIR>          1978-01-PRTC
+07/31/2020  12:25 PM    <DIR>          1979-03 NJT TMAC II
+01/06/2021  10:53 AM    <DIR>          1979-04 - NJT TMAC II Phase 2
+08/03/2020  07:33 AM             1,057 1979-04 - NJT TMAC II Phase 2 - Shortcut.lnk
+07/13/2021  01:31 PM    <DIR>          1980-04 MTS Rebanding
+10/17/2017  10:36 AM    <DIR>          1981-01
+11/18/2014  09:31 AM    <DIR>          1981-02
+07/13/2021  01:00 PM    <DIR>          1981-03 SEPTA CARD
+11/11/2019  12:03 PM    <DIR>          1981-04 SEPTA RTVL
+11/18/2014  09:31 AM    <DIR>          1981-05
+11/29/2017  03:56 PM    <DIR>          1981-05A
+04/21/2021  12:42 PM    <DIR>          1981-06 Centrex Migration
+05/20/2016  02:24 PM    <DIR>          1981-07
+09/26/2016  10:21 AM    <DIR>          1981-08-ACC
+12/14/2017  09:02 AM    <DIR>          1981-09 DCS
+01/17/2020  11:18 AM    <DIR>          1981-10
+04/21/2020  11:47 AM    <DIR>          1981-11-SEPTA RTVL
+08/07/2016  06:26 AM    <DIR>          1981-12
+11/18/2014  09:31 AM    <DIR>          1981-13
+08/11/2020  09:47 AM    <DIR>          1981-14
+01/17/2020  11:19 AM    <DIR>          1981-15
+12/04/2017  12:15 PM    <DIR>          1981-16
+12/04/2017  12:15 PM    <DIR>          1981-17
+12/04/2017  12:15 PM    <DIR>          1981-18
+10/18/2018  03:12 PM    <DIR>          1981-19 SEPTA Center City Elevator Cameras
+08/28/2018  01:07 PM    <DIR>          1981-20
+05/16/2019  10:16 AM    <DIR>          1981-21 SEPTA FTC Cameras
+12/04/2017  12:15 PM    <DIR>          1981-22
+06/15/2021  09:16 AM    <DIR>          1982-03 Vancouver SkyTrain
+09/30/2016  11:15 AM    <DIR>          1983-02-Suffolk
+07/13/2021  02:14 PM    <DIR>          1985-07 WMATA Bus
+09/10/2018  08:10 PM             5,037 2018PHILLY.txt
+07/01/2020  08:57 AM             5,367 2020Retired.txt
+05/20/2021  07:34 AM    <DIR>          2089-01 MBTA
+12/04/2017  12:15 PM    <DIR>          2097-03_10801
+07/09/2020  01:26 PM    <DIR>          2109-01
+12/04/2017  12:15 PM    <DIR>          2169-01
+12/04/2017  12:15 PM    <DIR>          2169-01A
+05/15/2019  12:18 PM    <DIR>          2169-02
+12/04/2017  12:15 PM    <DIR>          2169-03
+01/08/2021  10:58 AM    <DIR>          2169-06
+12/04/2017  12:15 PM    <DIR>          2169-07
+12/04/2017  12:15 PM    <DIR>          2169-08
+12/04/2017  12:15 PM    <DIR>          2169-09
+01/26/2021  02:16 PM    <DIR>          2169-12
+03/04/2021  11:30 AM               857 2169-12 - Shortcut.lnk
+05/21/2021  12:00 PM    <DIR>          2169-14
+01/07/2020  02:24 PM    <DIR>          2186-01 City of Gardena CAD AVL GRID
+01/03/2020  03:17 PM    <DIR>          2186-02 City of Gardena Scheduling and OPS
+04/13/2020  12:32 PM    <DIR>          2186-03 City of Gardena CAD AVL GRID PM
+12/04/2017  12:15 PM    <DIR>          2194-01
+12/04/2017  12:15 PM    <DIR>          2215-01
+10/10/2019  09:19 AM    <DIR>          2236-01
+12/04/2017  12:15 PM    <DIR>          2243-01
+06/17/2021  07:27 AM    <DIR>          2260-01_Des_Moines_DART
+07/09/2021  07:11 AM    <DIR>          2260-02_10838 Des Moines DART
+05/24/2019  03:21 PM    <DIR>          2265-01
+12/04/2017  12:15 PM    <DIR>          2289-01
+12/03/2019  08:48 AM    <DIR>          2305-01 ACT Australia
+05/15/2020  11:59 AM    <DIR>          2340-01 LA Metro ROC-BOC
+12/04/2017  12:15 PM    <DIR>          2350-01
+12/04/2017  12:15 PM    <DIR>          2350-02_10800
+05/26/2020  07:21 AM    <DIR>          23855702-MATC
+07/17/2018  04:09 PM               913 23855702-MATC - Shortcut.lnk
+10/31/2018  01:22 PM    <DIR>          23856511-SDMTS
+04/13/2021  10:00 AM    <DIR>          23856650-PB-WMATA
+11/10/2017  03:51 PM    <DIR>          23856890-HDR
+12/04/2017  12:15 PM    <DIR>          2400-01
+10/09/2017  01:26 PM         6,400,577 ASDF.pdf
+04/29/2019  10:48 AM            24,721 Cost Estimate Narrative - updated 2019-04-29 R1.docx
+06/03/2021  09:50 PM               625 Jobs (rossbar.comshares) (J) - Shortcut.lnk
+03/26/2019  02:07 PM             4,561 Jobs.txt
+09/25/2017  10:49 AM             4,328 MACRO-9-25-17-archives.txt
+01/13/2021  10:02 AM    <DIR>          Miami
+12/04/2017  12:15 PM    <DIR>          New Project Folder Master
+03/26/2019  02:07 PM                97 Philly
+01/11/2021  05:45 PM             6,111 philly-archives.txt
+07/19/2021  04:57 PM                97 Philly.txt
+08/30/2019  10:25 AM    <DIR>          St.Louis
+04/13/2020  12:10 PM    <DIR>          Standards
+10/08/2019  03:21 PM    <DIR>          _Archives
+              14 File(s)      6,455,205 bytes
+             102 Dir(s)  3,869,294,301,184 bytes free

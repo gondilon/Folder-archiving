@@ -1,0 +1,69 @@
+ Volume in drive J is OS
+ Volume Serial Number is 6671-F341
+
+ Directory of J:\Kansas City
+
+07/19/2021  04:55 PM    <DIR>          .
+05/26/2021  09:59 AM    <DIR>          ..
+06/30/2020  11:30 AM    <DIR>          0010105.000 UMKC Pump Study
+07/15/2020  09:13 AM    <DIR>          0010164.000 MRIGlobal 3E and 3C Concept
+08/13/2020  08:42 AM    <DIR>          0010203.000 MRIGlobal 3E and 3C Program and SD
+10/14/2020  03:28 PM    <DIR>          0010321.000 JCCC Science Lab Renovation
+07/15/2020  09:13 AM    <DIR>          0010336.000
+10/15/2020  06:11 AM    <DIR>          0010336.000 UMKC Dental Fire Service Entrance
+07/15/2020  09:13 AM    <DIR>          0010350.000 FTLV MCC Elec
+02/25/2021  05:38 PM    <DIR>          0010351.000 FTLV MCC Mech_Plbg
+02/18/2021  02:15 PM    <DIR>          0010367.000 KUMC CHIA Chiller
+11/23/2020  04:57 PM    <DIR>          0010394.000 MRIGlobal New Building Concept
+01/11/2021  05:36 PM    <DIR>          0010413.000 MRIGlobal Animal Holding Lab
+07/15/2020  09:13 AM    <DIR>          0010414.000 PSU Gibson Dining Hall
+07/15/2020  09:13 AM    <DIR>          0010449.000 KUMC Arc-Flash
+02/11/2021  01:32 PM    <DIR>          0010491.000 UMKC Grant Hall FA Replacement
+07/15/2020  09:13 AM    <DIR>          0010537.000 PSU Wilkinson Alumni Cntr Moisture Study
+04/08/2021  08:52 AM    <DIR>          0010540.000 KU Oliver Hall Demo
+07/15/2020  09:13 AM    <DIR>          0010543.000 UMKC Culture House Feasibility Study
+07/15/2020  09:13 AM    <DIR>          0010676.000 PSU Porter Hall Inverter Replacement
+07/15/2020  09:13 AM    <DIR>          0010692.000 JCCC WCMT Envelope Study
+06/01/2021  02:05 PM    <DIR>          0010742.000 UMKC School of Law FA Replacement
+05/29/2021  02:34 PM    <DIR>          0010783.000 UMKC DA Tank Replacement
+07/15/2020  09:13 AM    <DIR>          0010784.000 PSU Russ Hall
+05/21/2021  02:13 PM    <DIR>          0010816.000 MU Ellis Library Museum Storage
+07/15/2020  09:13 AM    <DIR>          0010817.000 MU Ellis Library Gallery Build-Out
+07/15/2020  09:13 AM    <DIR>          0010863.000 UMKC SOM Lab Clg
+01/12/2018  02:42 PM    <DIR>          1453-04
+06/12/2019  10:16 AM    <DIR>          1453-06
+12/04/2017  12:18 PM    <DIR>          1453-07A
+12/04/2017  12:18 PM    <DIR>          1453-07B
+12/04/2017  12:18 PM    <DIR>          1453-08
+05/11/2021  11:33 AM    <DIR>          1453-09
+05/01/2021  09:52 AM    <DIR>          21-04-28 Ft Riley Irwin Army Comm Hospital Mech Chase Access
+06/19/2020  03:18 PM       143,032,320 2188-01_Electrical_v17_bburgason.rvt
+12/04/2017  12:18 PM    <DIR>          2188-05
+08/18/2020  12:29 PM    <DIR>          2188-06 Coffey Co Jail - Burlington KS
+08/25/2020  09:08 AM    <DIR>          2188-08 EGP Lindahl Bldg - Tioga ND
+12/04/2017  12:18 PM    <DIR>          2245-01
+05/07/2021  07:41 AM    <DIR>          2267-01
+07/22/2020  11:04 AM    <DIR>          2290-01
+09/29/2020  05:01 PM    <DIR>          2297-01
+02/07/2020  12:30 PM    <DIR>          2304-01
+12/04/2017  12:18 PM    <DIR>          2308-01
+03/07/2019  12:05 PM    <DIR>          245-36
+02/07/2020  01:27 PM    <DIR>          245-37
+12/04/2017  12:18 PM    <DIR>          245-38
+12/04/2017  12:18 PM    <DIR>          245-39
+12/04/2017  12:18 PM    <DIR>          245-40
+06/08/2020  10:49 AM    <DIR>          245-41
+11/12/2020  12:02 PM    <DIR>          245-42
+05/26/2020  03:23 PM    <DIR>          How_To_PPTs
+05/26/2020  02:19 PM    <DIR>          Indianapolis
+07/19/2021  04:55 PM                96 Kansas
+08/19/2020  04:13 PM    <DIR>          Kansas City
+07/19/2021  04:55 PM                96 KansasCity.txt
+06/01/2020  10:54 AM    <DIR>          KC Revit Families
+01/11/2021  05:30 PM             3,115 kc-Archives.txt
+08/22/2019  02:04 PM           256,133 M000 Sheet Standard Abbrevs and Symbols - Jails.pdf
+07/15/2020  09:13 AM    <DIR>          ProjectFolder
+03/30/2021  06:51 PM    <DIR>          _PI
+05/26/2021  08:31 AM    <DIR>          _Pursuit Projects
+               5 File(s)    143,291,760 bytes
+              57 Dir(s)  3,869,303,623,680 bytes free

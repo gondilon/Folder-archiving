@@ -1,0 +1,207 @@
+ Volume in drive J is OS
+ Volume Serial Number is 6671-F341
+
+ Directory of J:\Hamden
+
+07/19/2021  02:49 PM    <DIR>          .
+05/26/2021  09:59 AM    <DIR>          ..
+10/16/2019  02:14 PM    <DIR>          001 Project Folder Set Up
+07/10/2021  08:30 PM    <DIR>          01-01
+05/12/2021  05:51 PM    <DIR>          1202.0008415.001 Microsoft YQB20 Colo 9
+06/21/2021  12:41 PM    <DIR>          1202.0009123.001 HCSD MCC & WCC AS-1
+07/16/2020  08:53 AM    <DIR>          1202.0010034.000 Moynihan Bulletin 168
+07/16/2020  08:54 AM    <DIR>          1202.0010040.000 Citadel Hong Kong 2020
+07/16/2020  08:55 AM    <DIR>          1202.0010053.000 Moynihan Farley Tenant TARA
+07/16/2020  08:56 AM    <DIR>          1202.0010073.000 387 Park Ave South
+07/16/2020  08:57 AM    <DIR>          1202.0010078.000 Citadel Zurich 2020
+07/16/2020  08:58 AM    <DIR>          1202.0010081.000 ARPG Inspection 2020
+06/15/2020  09:46 AM    <DIR>          1202.0010086.000 345 Park Avenue South (Deerfield)
+06/15/2020  09:35 AM    <DIR>          1202.0010094.000 Citadel 350 Park Avenue (3,4 Flrs)
+07/16/2020  08:59 AM    <DIR>          1202.0010095.000 Mount Vernon Schools IDS & Ext. CA
+07/16/2020  09:00 AM    <DIR>          1202.0010114.000 MSG Las Vegas Sphere Continuation
+07/16/2020  09:01 AM    <DIR>          1202.0010151.000 ASCTE
+07/07/2020  08:05 PM    <DIR>          1202.0010153.000 CMS-BOE
+07/16/2020  09:02 AM    <DIR>          1202.0010163.000 Casa Blanca Comm. School
+07/16/2020  09:03 AM    <DIR>          1202.0010169.000 ARPG Maintenance Review
+10/01/2020  09:32 PM    <DIR>          1202.0010169.001 ARPG Maintenance Consulting
+07/22/2020  01:03 PM    <DIR>          1202.0010184.000 Acton Douglas & Gates Elem. School
+07/23/2020  08:08 PM    <DIR>          1202.0010187.000 Microsoft YTO24 Data Center
+07/24/2020  01:37 PM    <DIR>          1202.0010189.000 Trinity 12th Floor Fit Out
+08/05/2020  09:39 PM    <DIR>          1202.0010204.000 76 Trinity - 18th Floor
+08/10/2020  03:01 PM    <DIR>          1202.0010217.000 Microsoft YTO04 Data Center SDD
+08/12/2020  08:44 AM    <DIR>          1202.0010220.000 Morgan Stanley TARA & Upgrades
+06/01/2021  02:25 PM    <DIR>          1202.0010226.000 Microsoft DSM-11 Data Center
+08/16/2020  09:45 PM    <DIR>          1202.0010230.000 Lindt & Sprungli
+08/21/2020  04:42 PM    <DIR>          1202.0010237.000 Berkshire County Sherrif's Dept
+09/14/2020  09:32 PM    <DIR>          1202.0010263.000 Microsoft Circular Cloud Cntr
+09/21/2020  07:05 PM    <DIR>          1202.0010264.000 Microsoft EAT02 Data Center
+09/15/2020  11:22 AM    <DIR>          1202.0010268.000 Manhattan West - Bright Horizon's Fit Out
+09/15/2020  11:28 AM    <DIR>          1202.0010269.000 Microsoft YTO10 Data Center
+09/18/2020  12:24 PM    <DIR>          1202.0010278.000 Microsoft 02EAT05 SDD
+09/23/2020  01:53 PM    <DIR>          1202.0010284.000 BDO Unibank HQ - Makati
+09/22/2020  11:43 PM    <DIR>          1202.0010285.000 WTC Dev - Continuation of Services 2020-2022
+09/29/2020  11:30 AM    <DIR>          1202.0010295.000 Microsoft Bay AZ1 Northtown SDD
+10/19/2020  08:38 AM    <DIR>          1202.0010338.000 Gilboa Dam Gap Analysis
+11/06/2020  11:07 AM    <DIR>          1202.0010370.000 C&O Canal
+11/06/2020  04:15 PM    <DIR>          1202.0010371.000 Citadel - Chicago Restack (131 S. DBN)
+05/19/2021  08:15 AM    <DIR>          1202.0010376.000 Lever House
+11/16/2020  01:04 PM    <DIR>          1202.0010380.000 Microsoft QRO02 Data Center SDD
+02/16/2021  08:30 AM    <DIR>          1202.0010425.000 Microsoft - DSM40 Data Center
+12/15/2020  12:15 AM    <DIR>          1202.0010429.000 Microsoft EAT02 Campus Renovation SDD
+01/05/2021  03:02 PM    <DIR>          1202.0010433.000 -  FRB of Boston - Cash Services Renovation
+01/06/2021  05:38 PM    <DIR>          1202.0010460.000 Microsoft YTO11 Data Center SDD
+03/26/2021  06:45 AM    <DIR>          1202.0010477.000 WWE HQ - Relocation
+07/16/2021  10:12 AM    <DIR>          1202.0010564.000 Cushing Memorial Library
+03/10/2021  11:54 AM    <DIR>          1202.0010624.000 Microsoft MWH Baseline Lake Data Center
+03/11/2021  07:27 PM    <DIR>          1202.0010631.000 Wadsworth Atheneum
+03/18/2021  07:21 PM    <DIR>          1202.0010646.000 LFNY Stairwell Lockdown
+03/18/2021  03:52 PM    <DIR>          1202.0010647.000 Microsoft C07_C08 RDD
+03/18/2021  09:39 PM    <DIR>          1202.0010648.000 One Times Square Renovation
+03/24/2021  09:54 AM    <DIR>          1202.0010658.000 Microsoft DSM12
+03/24/2021  02:42 PM    <DIR>          1202.0010662.000 Microsoft QRO01 Data Center
+06/16/2021  07:15 AM    <DIR>          1202.0010677.000 Microsoft QRO02 North Parcel SDD
+04/01/2021  09:54 PM    <DIR>          1202.0010693.000 TRPL Security Assessment
+04/09/2021  11:26 AM    <DIR>          1202.0010711.000 Microsoft MWH20 Tenant Office Fit Out
+04/26/2021  11:21 AM    <DIR>          1202.0010745.000 Temple Medical Garage
+04/26/2021  02:00 PM    <DIR>          1202.0010746.000 Walpole Middle School
+05/12/2021  05:39 PM    <DIR>          1202.0010794.000 Enterprise Center
+05/21/2021  08:06 PM    <DIR>          1202.0010822.000 Boston Athenaeum
+06/02/2021  09:54 AM    <DIR>          1202.0010831.000 Trinity Mausoleum
+06/18/2021  07:14 AM    <DIR>          1202.0010872.000 Microsoft DSM RNG
+06/21/2021  09:42 PM    <DIR>          1202.0010881.000 Highland Beach Residence
+06/24/2021  10:29 AM    <DIR>          1202.0010888.000 Microsoft YTO40 Data Center
+06/24/2021  10:05 AM    <DIR>          1202.0010890.000 Microsoft AZ05 Chelan Data Center SDD
+02/09/2021  02:17 PM    <DIR>          1202.0010891.000 Microsoft QRO06 Data Center
+06/29/2021  01:59 PM    <DIR>          1202.0010904.000 Microsoft Master Outsourced Srvc
+07/07/2021  09:54 AM    <DIR>          1202.0010923.000 Microsoft YTO22 EX3
+07/07/2021  09:56 AM    <DIR>          1202.0010923.000 Mount Vernon Extended CA Srvcs
+07/07/2021  09:56 AM    <DIR>          1202.0010926.000 Manhattan West High Line Connector
+07/15/2021  10:17 AM    <DIR>          1202.0010947.000 CMLC
+07/16/2021  12:59 PM    <DIR>          1202.0010954.000 Microsoft SpaceX DM
+08/01/2015  05:12 PM    <DIR>          13052201-02 Elisabeth Morrow School
+07/02/2018  02:11 PM    <DIR>          1382-07 Microsoft DSM09-10
+01/21/2021  01:09 PM    <DIR>          1526-03 Manhattan West NE Tower
+12/09/2019  03:04 PM    <DIR>          1526-05 Manhattan West, SE Tower
+06/15/2020  09:43 AM    <DIR>          1526-06 Manhattan West-Central Plaza
+04/12/2017  09:39 AM    <DIR>          1526-07 Manhattan West NW Tower Hotel
+10/18/2018  03:37 PM    <DIR>          1526-10 1100 Ave of the Americas
+08/19/2019  12:09 PM    <DIR>          1582-14 Belmont High School
+10/16/2019  02:14 PM    <DIR>          1594-02 Lindbergh Schools
+09/17/2018  08:20 AM    <DIR>          1595-07A Microsoft PH BN6 CA
+11/02/2018  02:22 PM    <DIR>          1751-04 Staten Island Courthouse
+07/18/2015  12:13 PM    <DIR>          1751-04 Staten Island Courthouse - 6.06.03
+02/23/2017  09:23 AM    <DIR>          1751-05 Harrisburg Courthouse
+07/17/2015  09:43 AM    <DIR>          1753-07 UAE Mission
+10/21/2016  03:05 PM    <DIR>          1767-02 Allen Stevenson School
+07/18/2015  12:52 PM    <DIR>          1767-02 Allen-Stevenson School K-9
+05/04/2017  03:11 PM    <DIR>          1768-02 America Media
+01/09/2019  03:01 PM    <DIR>          1773-03 141 Bay Street
+11/15/2017  10:34 AM    <DIR>          1775-01 Citi Group-One Citi NY 388-390
+02/24/2020  03:47 PM    <DIR>          1777-04 ARPG Perimeter
+07/18/2015  02:04 AM    <DIR>          1785-01 PMA -RASA#22
+07/14/2016  09:20 AM    <DIR>          1785-01 PMA Rassa 22
+08/09/2017  09:47 AM    <DIR>          1785-02 PMA-Core & Shell
+10/03/2016  09:21 AM    <DIR>          1788-01 DEC
+07/18/2015  04:01 PM    <DIR>          1788-01 Detroit Entertainment Center
+10/31/2018  12:22 PM    <DIR>          1800-01A Turkish Consulate CA Srvcs
+05/20/2016  12:43 PM    <DIR>          1800-04 Stamford IB Magnet
+03/28/2018  08:05 AM    <DIR>          1804-03 One WTC Loading Docks
+04/02/2018  11:30 AM    <DIR>          1804-04 One WTC East Lobby Sec. Enh
+07/16/2015  11:23 PM    <DIR>          1805-01 415 Madison Avenue
+08/29/2019  05:39 PM    <DIR>          1808-02 Moynihan Station Phase II
+12/16/2016  09:56 AM    <DIR>          1808-02A Moynihan Station Phase II Skylights
+12/07/2016  04:47 PM    <DIR>          1808-02D Moynihan Column Feasibility
+03/28/2018  08:04 AM    <DIR>          1808-02F Moynihan Train Hall CA
+02/15/2019  10:48 AM    <DIR>          1808-02M Moynihan Bulletin 44.3
+12/21/2018  02:36 PM    <DIR>          1808-06 Disney - Project Galaxy
+03/10/2021  08:39 AM        97,071,104 1815.21.02.05 BHS Architecture Revit Model.rvt
+03/03/2020  02:35 PM    <DIR>          1824-05 HCSD MCC & WCC Replacement
+07/03/2019  01:50 PM    <DIR>          1827-01A Tower Hill Add Srvc
+04/06/2021  11:48 AM    <DIR>          1831-02 Hillview Reservoir HVR-200
+01/27/2016  03:39 PM    <DIR>          1840-01 Bruce Museum
+05/16/2019  02:47 PM    <DIR>          1844-01 State of Being
+04/29/2020  08:52 AM    <DIR>          1855-05 LFNY Auditorium Summer 2020 Work
+06/23/2017  09:44 AM    <DIR>          1859-01 Jewish Theological Sem
+08/01/2018  09:05 AM    <DIR>          1859-02 Obama Pres. Center
+03/02/2021  02:01 PM    <DIR>          1861-01 Trinity Church NYC
+06/02/2017  08:29 AM               924 1861-01 Trinity Church NYC.lnk
+08/06/2018  01:49 PM    <DIR>          1861-02 Historic Trinity Church
+02/21/2017  04:52 PM    <DIR>          1945-04 Citadel - On-Call Sec. Cons
+11/06/2019  04:06 PM    <DIR>          1945-06 Citadel 425 Redesign
+03/28/2018  08:03 AM    <DIR>          1953-02 Essex Crossing Site 2 CA
+10/06/2016  12:09 PM    <DIR>          1961-01 AMNH SEIC Exp
+03/12/2021  09:07 AM    <DIR>          1961-02 AMNH Minerals & Gems Security
+12/20/2016  03:52 PM    <DIR>          1963-01 Spence Athletic Center
+09/23/2015  04:42 PM    <DIR>          1967-02 George Keverian School
+05/16/2019  04:36 PM    <DIR>          1985-01 WTC WBVA
+08/01/2018  09:00 AM    <DIR>          1985-01A WTC WBVA Post Bid Mods
+12/21/2018  02:30 PM    <DIR>          2100-02 JPMC 383 Madison HQ2 Refresh
+04/12/2021  01:26 PM    <DIR>          2100-03 JPMC HQ3 Core & Shell
+02/11/2020  10:53 PM    <DIR>          2100-03A JPMC HQ3 Interior Fit Out
+01/09/2018  04:49 PM    <DIR>          2118-01 Hewitt School
+07/03/2020  10:10 AM    <DIR>          2131-01 Catskill Aquaduct Recon
+08/11/2018  02:58 PM    <DIR>          2161-01 CBS Manhattanville Phase 2 Lrg Sq
+02/22/2019  01:41 PM    <DIR>          2167-01 Ivan Smith Elementary School
+07/24/2020  01:44 PM    <DIR>          2167-02 Sharon High School
+03/25/2019  02:33 PM    <DIR>          2189-02 Suez Master Sec. Plan
+01/21/2019  02:44 PM    <DIR>          2204-02 Nauset HS
+09/26/2018  11:54 AM    <DIR>          2205-01 Morse High School
+10/17/2018  01:58 PM    <DIR>          2207-01 230 Park Ave South Lobby Renovations
+10/09/2018  04:22 PM    <DIR>          2208-01 PMA James Turrell Skyspace
+10/15/2018  01:54 PM    <DIR>          2214-01 Convent of the Sacred Heart School
+01/13/2019  01:56 PM    <DIR>          2216-01 Discovery HQ
+03/12/2019  09:15 AM    <DIR>          2218-01 Greenwich Library
+12/20/2018  11:20 AM    <DIR>          2220-01 16East 69th Street
+05/10/2019  09:19 AM    <DIR>          2221-01A Reading PA US District Courthouse CA Phase
+12/21/2018  02:44 PM    <DIR>          2224-01 Latham & Watkins
+05/31/2019  12:57 PM    <DIR>          2235-01 CMS Palisades School
+01/22/2019  04:13 PM    <DIR>          2237-01 Omaha Public Schools
+03/26/2019  09:50 PM    <DIR>          2248-01 660 Fifth Avenue
+05/13/2019  02:48 PM    <DIR>          2259-01 CIBC Toronto
+05/17/2019  02:59 PM    <DIR>          2262-01 775 Washington
+06/03/2019  11:02 AM    <DIR>          2268-01 9 West 57th St - Floors 46 & 47
+08/01/2019  05:12 PM    <DIR>          2275-01 Microsoft MWH21
+10/15/2019  02:34 PM    <DIR>          3280-02 Microsoft MWH20
+09/20/2019  02:39 PM    <DIR>          3282-01 Greenville City Hall
+12/23/2019  11:13 AM    <DIR>          3283-01 Brooklyn Heights Synagogue
+11/14/2019  10:38 PM    <DIR>          3771-01 191 Bay Street
+11/14/2019  10:38 PM    <DIR>          3772-01 Molloy College
+03/23/2020  03:39 PM    <DIR>          3775-01 Prudential Cntr Obs Deck
+04/29/2020  07:18 AM    <DIR>          3776-01 Boston City Hall Plaza
+04/28/2020  10:52 PM    <DIR>          3777-01 Carnegie Hall Tower Lobby
+05/29/2020  07:10 PM    <DIR>          645 Fifth Ave
+07/24/2018  08:32 AM    <DIR>          Brooklyn Arena - T&M
+11/21/2018  10:50 AM    <DIR>          Columbia Univ School of Bus - 13062601-01
+07/18/2015  01:18 AM    <DIR>          Croton Water Treatment - Design
+07/18/2015  01:18 AM    <DIR>          Croton Water Treatment-Construc Admin
+11/27/2015  06:11 PM            11,880 dir DVS 11-15.txt
+01/13/2021  02:20 PM    <DIR>          DVS CAD Scripts
+09/25/2017  10:50 AM            13,665 DVS-9-25-17-archives.txt
+03/17/2021  04:48 PM            25,322 dvs.txt
+09/15/2016  04:16 PM            14,752 dvs_archives_9-14-16.txt
+08/01/2015  11:36 AM    <DIR>          Elisabeth Morrow School - 13052201-02
+07/18/2015  01:20 AM    <DIR>          EWR Terminal A
+07/18/2015  01:20 AM    <DIR>          Fema - STARR - IDIQ
+07/18/2015  01:22 AM    <DIR>          Gilboa Dam CAT-211 - 6.09.03
+07/18/2015  01:22 AM    <DIR>          Grand Central Plaza
+03/26/2019  02:05 PM                91 Hamden.txt
+07/31/2015  07:48 AM    <DIR>          Hood Museum - 14112401-01 - Completed
+10/05/2016  10:25 AM    <DIR>          Howard Hughes Uplands - Video
+08/07/2017  10:56 AM             1,079 J Drive Network File Guide - Shortcut.lnk
+07/08/2015  11:19 AM           184,249 J Drive Network File Guide.pdf
+03/11/2021  11:51 AM               625 Jobs (rossbar.comshares) (J) - Shortcut.lnk
+07/31/2015  07:48 AM    <DIR>          Lowell MA Data Center
+06/13/2016  01:35 PM    <DIR>          Misc
+06/27/2017  08:19 AM    <DIR>          Morgan Stanley - WAI 21311129
+06/09/2020  09:50 AM    <DIR>          Mount Vernon IDS & Extended CA
+09/25/2020  02:38 PM    <DIR>          Moynihan Station Redevelopment
+07/18/2015  02:10 AM    <DIR>          PMA-Phase 1 - Re-Commissioning
+09/23/2015  04:42 PM    <DIR>          St. Patrick's Cathedral - 8.07.03
+03/30/2021  02:44 PM    <DIR>          TestFolder
+07/18/2015  01:09 AM    <DIR>          Washington Aquaduct
+05/24/2016  09:27 AM            15,504 Wildwood Elementary School.docx
+07/18/2015  12:22 PM    <DIR>          Williams College - Stetson Hall (Library) - 7.08.02
+07/31/2015  10:11 PM    <DIR>          WTC Tower 2 - Interim Plaza
+07/16/2021  10:10 AM    <DIR>          _Archives
+              11 File(s)     97,339,195 bytes
+             189 Dir(s)  3,869,306,408,960 bytes free
