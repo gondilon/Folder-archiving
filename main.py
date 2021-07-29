@@ -1,5 +1,4 @@
 import csv
-import json
 import os
 import pandas as pd
 
@@ -72,6 +71,8 @@ def find_project_nums(paths, com=False):
                     pass
         except PermissionError:
             print(path)
+        except OSError:
+            pass
     return projects
 
 
@@ -157,27 +158,29 @@ def get_search_paths(file_path):
         paths_to_search.extend(paths_to_check(path))
     return paths_to_search
 
+
+
 def main():
     #todo: rewrite based on spreadshet input
     paths_file = r"D:\Users\cstanton\PycharmProjects\Folder-archiving\paths_to_check.csv"
-
-    check_paths =get_search_paths(paths_file)
-
+    paths_list = input("what is the path to the csv file containing the root-level directories to search? ('path to file/filename')")
+    output_location = input("Which directory would you like to store the output files in?('full path')")
+    check_paths = get_search_paths(paths_list)
     project_scrape = find_project_nums(check_paths)
-    print(len(project_scrape))
+    #print(len(project_scrape))
     inactive = find_active(project_scrape)
-    print(len(inactive))
+    #print(len(inactive))
     sorted_by_folder = process_inactive_projects(inactive)
     # print(sorted_by_folder)
     for key, value in sorted_by_folder.items():
-        with open(f"output/{key}.csv", "w", newline='') as sorted_files:
+        with open(f"{output_location}/{key}.csv", "w", newline='') as sorted_files:
             write = csv.writer(sorted_files)
             title = f"Projects from the{key} Folder. \n"
             sorted_files.write(title)
             write.writerows(value)
     sort_scrape = process_inactive_projects(project_scrape)
 
-    with open("output/Full_project_scrape.csv", "w", newline='') as full_scrape:
+    with open(f"{output_location}/Full_project_scrape.csv", "w", newline='') as full_scrape:
         writer = csv.writer(full_scrape)
         for project, path in sort_scrape.items():
             title = f"Projects from the {project} Folder. \n"
